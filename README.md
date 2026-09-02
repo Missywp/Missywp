@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi! 
 Computer Science student since 2024. I really enjoy programming logic and the creative process of building software.
 
 - Primary focus on Java development
