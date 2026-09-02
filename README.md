@@ -1,10 +1,11 @@
 ### Hi! 👋
 Computer Science student since 2024. I really enjoy programming logic and the creative process of building software.
 
-- Mostly working with **Java** (what I use the most)
-- Also familiar with web basics (**HTML, CSS, JavaScript, React**)
-- Experience with game development using **Unity**
-- Using GitHub to study and keep my projects organized
+- Mostly working with Java (what I use the most)
+- Developing responsive web applications and interfaces using React, JavaScript, HTML, and CSS
+- Experience with game development and interactive experiences using Unity
+- Leveraging Git & GitHub for version control, collaboration, and structured project management
+
 
 <br/>
 
